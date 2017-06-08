@@ -5,5 +5,5 @@ export default function() {
     {title: 'Learning Webpack'},
     {title: 'Learning UI-materialize'},
     {title: 'Learning Hype technology'},
-  ]
+  ];
 }
