@@ -4,6 +4,6 @@ export default function() {
     {title: 'Learning React with Redux'},
     {title: 'Learning Webpack'},
     {title: 'Learning UI-materialize'},
-    {title: 'Learning Hupe technology'},
+    {title: 'Learning Hype technology'},
   ]
 }
